@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPTV</string>
+    <string name="сhannel_logo">Логотип канала</string>
+    <string name="all_сhannels">Усі канали</string>
+</resources>
